@@ -1,7 +1,7 @@
 ## UCLA Slack Community Guidelines and Information
 
 1. Privilege
-  - Being part of the Slack UCLA Alumni group is a privilege. This group waas created to help alumni with jobs; create a positive environment for students to network with each other; and help students and graduates develop their skills further. Any negative behavior, complaining, or violation of the other rules can result in a ban at any time from the moderator(s). If you have an issue with someone, UCLA Extension, or anything else, please contact your SSM or PM the mods in private. 
+  - Being part of the Slack UCLA Alumni group is a privilege. This group was created to help alumni with jobs; create a positive environment for students to network with each other; and help students and graduates develop their skills further. Any negative behavior, complaining, or violation of the other rules can result in a ban at any time from the moderator(s). If you have an issue with someone, UCLA Extension, or anything else, please contact your SSM or PM the mods in private. 
 2. Respect and tolerance
   - Please avoid snarky or personally offensive commentary. We encourage lively debate and discussion, provided the conversation remains positive and constructive. We do not want anyone to feel intimidated or discouraged from participating.
 3. Jobs on the Job Board
